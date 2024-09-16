@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumarphpt&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumarphpt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/mail2ppraveenk1" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mail2ppraveenk1?logo=twitter&style=for-the-badge" alt="https://x.com/mail2ppraveenk1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mail2ppraveenk1" target="blank"><img src="https://img.shields.io/twitter/follow/mail2ppraveenk1?logo=twitter&style=for-the-badge" alt="mail2ppraveenk1" /></a> </p>
 
 - 🔭 I’m currently working on **Testing and Validation**
 
